@@ -198,7 +198,6 @@ ol {
 }
 
 .button:active {
-  border: 1px solid #fff;
   background-color: #545050;
   text-decoration: none;
 }
@@ -308,12 +307,12 @@ ol {
   outline-offset: -1px;
 }
 
-.content__video-card:hover {
+.content__card-link:hover {
   text-decoration: underline;
   color: #fff;
 }
 
-.content__video-card:active {
+.content__card-link:active {
   background-color: #545050;
   text-decoration-line: none;
 }
